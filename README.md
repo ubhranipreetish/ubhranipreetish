@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Preetish+Ubhrani" alt="Preetish Ubhrani" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0e3a5c,100:38bdf8&height=220&section=header&text=Preetish%20Ubhrani&fontSize=72&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20Systems%20Engineer&descSize=22&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8CCBFF&center=true&vCenter=true&width=820&lines=AI%2FML+Engineer+%E2%9A%A1+Generative+AI+%C2%B7+LLM+%C2%B7+RAG;Machine+Learning+%E2%9C%96+Data+Science+%E2%9C%96+Full-Stack;Building+intelligent+systems+from+model+to+production" alt="roles" />
+<br/>
+
+<a href="https://github.com/ubhranipreetish">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8CCBFF&center=true&vCenter=true&width=820&lines=AI%2FML+Engineer+%E2%9A%A1+Generative+AI+%C2%B7+LLM+%C2%B7+RAG;Machine+Learning+%E2%9C%96+Data+Science+%E2%9C%96+Full-Stack;Building+intelligent+systems+from+model+to+production" alt="roles" />
+</a>
+
 
 <br/>
 
@@ -10,85 +15,109 @@
 <a href="https://preetishubhraniportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=0a192f" /></a>
 <a href="mailto:ubhranipreetish@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/ubhranipreetish/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/ubhranipreetish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>
 
-<br/>
+## `> whoami`
+
+> **AI/ML Engineer with strong foundations in Generative AI, Machine Learning, Data Science, Full-Stack Development, and System Design.**
+
+```python
+class PreetishUbhrani:
+    def __init__(self):
+        self.role    = "AI/ML Engineer"
+        self.focus   = ["Generative AI", "LLM Apps", "RAG", "ML Pipelines"]
+        self.also    = ["Data Science", "Full-Stack Engineering", "System Design"]
+        self.mindset = "Build AI systems end to end — model, data, API, and product."
+
+    def what_i_do(self):
+        return [
+            "Design ML & agentic workflows that reason, retrieve, and self-correct",
+            "Train, tune & evaluate models, then ship them behind real APIs",
+            "Turn messy data into validated insight with statistics & EDA",
+            "Architect full-stack apps from database to deployed UI",
+        ]
+```
+
+## `> tech stack --all`
 
 <div align="center">
 
-## 🛠️ Stack
+### 🔤 Core Programming
+![Python](https://img.shields.io/badge/Python-38bdf8?style=for-the-badge&logo=python&logoColor=0a192f)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0e3a5c?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![Bash](https://img.shields.io/badge/Bash-0e3a5c?style=for-the-badge&logo=gnubash&logoColor=38bdf8)
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nextjs,react,nodejs,express,typescript,javascript,mongodb,tailwind,docker,git,vercel,vscode&theme=dark&perline=9" />
+---
 
-<br/><br/>
+### 🤖 AI / Machine Learning & GenAI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0e3a5c?style=for-the-badge&logoColor=38bdf8)
+![RAG](https://img.shields.io/badge/RAG-38bdf8?style=for-the-badge&logoColor=0a192f)
+![FAISS](https://img.shields.io/badge/FAISS-0e3a5c?style=for-the-badge&logoColor=38bdf8)
+![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-38bdf8?style=for-the-badge&logoColor=0a192f)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0a192f)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-0e3a5c?style=for-the-badge&logoColor=38bdf8)
 
-<img src="https://img.shields.io/badge/LangGraph-0e3a5c?style=flat-square&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/RAG-38bdf8?style=flat-square&logoColor=0a192f" />
-<img src="https://img.shields.io/badge/FAISS-0e3a5c?style=flat-square&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=0a192f" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=0a192f" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+---
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=38bdf8)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=38bdf8)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=0a192f)
+![statsmodels](https://img.shields.io/badge/statsmodels-0e3a5c?style=for-the-badge&logoColor=38bdf8)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=38bdf8)
+![Seaborn](https://img.shields.io/badge/Seaborn-38bdf8?style=for-the-badge&logoColor=0a192f)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-38bdf8?style=for-the-badge&logo=express&logoColor=0a192f)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0e3a5c?style=for-the-badge&logo=postman&logoColor=38bdf8)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=38bdf8)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0a192f)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=38bdf8)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=0a192f)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/Atlas-0e3a5c?style=for-the-badge&logo=mongodb&logoColor=38bdf8)
+![Vector DB](https://img.shields.io/badge/Vector_DB-38bdf8?style=for-the-badge&logoColor=0a192f)
+
+---
+
+### ☁️ DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8)
+![Render](https://img.shields.io/badge/Render-0e3a5c?style=for-the-badge&logo=render&logoColor=38bdf8)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
-<br/>
+## `> github stats`
 
 <div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/ubhranipreetish/Credit_Risk_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ubhranipreetish&repo=Credit_Risk_Analysis&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&description_lines_count=2" />
-</a>
-</td>
-<td>
-<a href="https://github.com/ubhranipreetish/What-If">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ubhranipreetish&repo=What-If&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&description_lines_count=2" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/ubhranipreetish/SectionB_G-18_Flight_Delay_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ubhranipreetish&repo=SectionB_G-18_Flight_Delay_Analysis&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&description_lines_count=2" />
-</a>
-</td>
-<td>
-<a href="https://github.com/ubhranipreetish/DineX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ubhranipreetish&repo=DineX&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&description_lines_count=2" />
-</a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/ubhranipreetish/Zombie-Survival-Shooter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ubhranipreetish&repo=Zombie-Survival-Shooter&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&description_lines_count=2" />
-</a>
-</td>
-</tr>
-</table>
-
-<a href="https://credit-risk-analyzer-456.streamlit.app/"><img src="https://img.shields.io/badge/▶_Credit_Risk-live-2ea043?style=flat-square&labelColor=0a192f" /></a>
-<a href="https://dine-x-mu.vercel.app/"><img src="https://img.shields.io/badge/▶_DineX-live-2ea043?style=flat-square&labelColor=0a192f" /></a>
-<a href="https://public.tableau.com/app/profile/preetish.ubhrani/viz/Flight_Delay_Analysis_Final_Dashboard/HomePage"><img src="https://img.shields.io/badge/▶_Flight_Delay-tableau-E97627?style=flat-square&labelColor=0a192f" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ubhranipreetish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a192f&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubhranipreetish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=38bdf8&text_color=c9d1d9&langs_count=8" height="170"/>
@@ -97,58 +126,12 @@
 
 <img src="https://streak-stats.demolab.com?user=ubhranipreetish&theme=tokyonight&hide_border=true&background=0a192f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Snake
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubhranipreetish/ubhranipreetish/output/github-snake-cyan.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubhranipreetish/ubhranipreetish/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/ubhranipreetish/ubhranipreetish/output/github-snake-cyan.svg" width="100%" />
 </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏙️ 3D Activity
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ubhranipreetish&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=38bdf8" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ⚔️ Competitive Programming
-
-<img src="https://leetcard.jacoblin.cool/ubhranipreetish?theme=dark&font=JetBrains%20Mono&ext=heatmap&animation=true" height="200" />
-
-<br/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e3a5c,100:0a192f&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
