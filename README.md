@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0e3a5c,100:38bdf8&height=220&section=header&text=Preetish%20Ubhrani&fontSize=72&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20Systems%20Engineer&descSize=22&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0e3a5c,100:38bdf8&height=220&section=header&text=Preetish%20Ubhrani&fontSize=72&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%2FML%20Engineer&descSize=22&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,8 +19,6 @@
 </div>
 
 ## `> whoami`
-
-> **AI/ML Engineer with strong foundations in Generative AI, Machine Learning, Data Science, Full-Stack Development, and System Design.**
 
 ```python
 class PreetishUbhrani:
@@ -186,10 +184,10 @@ philosophy: >
 
 <br/>
 
-**Found something useful? A star goes a long way.**
+⭐ **Found something useful? A star goes a long way.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by;Let's+build+something+intelligent+together." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+intelligent+together." />
 
 </div>
